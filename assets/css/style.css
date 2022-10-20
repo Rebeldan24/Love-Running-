@@ -319,6 +319,11 @@ footer {
         height: 1200px
         margin: 0 auto;
     }
+    .signup-form {
+        width: 90%;
+        height: 1200px
+        margin: 0 auto;
+    }
 
     .left-about-heading, .right-about-heading {
         width: inherit;
